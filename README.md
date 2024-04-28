@@ -11,7 +11,7 @@ Some new design skills that I acquired after working on this project are:
 Customizing and adding shapes to form objects in OpenGL.
 Understanding of OpenGL format.
 Became more familiar with Visual Studio.
-Testing
+Testing.
 In the design process, I first try to understand the requirements of the project I will be working on. I gather information such as: Who the users are? What are their needs?, and What problem does it solve? I then conduct some research and analysis. I start by analyzing existing solutions and seeing what aspects can be improved and innovated. I then start to create ideas about aspects specific to my program. This can be things like UI and specific functions required for the program to run efficiently. I then put my thoughts into action and start designing the UI and/or coding. I receive feedback from professors and implement their ideas to my work.
 In future work I shall continue to prioritize user needs and feedback. By doing this, I think about the others involved in the project and refrain from implementing only what I feel is suitable. 
 
@@ -30,7 +30,7 @@ Continuously testing the output of my code to determine if it was a good fit for
 Created code for lighting, textures, rendering, etc.
 Use of rotating, scaling, and positioning techniques.
 Iteration allowed me to view my project with multiple different POVs. Everytime I added, removed or adjusted something in the code I would get feedback from the output. You sometimes get a different view on your work and can use these new ideas to your advantage. It also allowed me to continuously improve the project. 
-Constantly working on the milestones allowed me to familiarize myself with OpenGL and even more with Visual Studio. I was able to add to my project bit by bit and focus on these bits one at a time. 
+Constantly working on the milestones allowed me to familiarize myself with OpenGL and even more with Visual Studio. I was also able to add to my project bit by bit and focus on these bits one at a time. 
 
 
 

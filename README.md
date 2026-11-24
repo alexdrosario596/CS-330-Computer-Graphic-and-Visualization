@@ -2,6 +2,12 @@
 
 ## Project Overview
 
+## Project Screenshot
+
+![Interactive 3D Office Desk Scene](final-scene.png.png)
+
+The completed 3D office desk scene featuring textured objects, lighting, and material properties rendered using OpenGL.
+
 An interactive 3D visualization developed using C++ and OpenGL as part of the CS-330 Computer Graphics and Visualization course at Southern New Hampshire University.
 
 The project recreates a real-world office desk environment featuring a laptop, notebook, pencil, and textured wooden desk. Users can navigate the scene through an interactive virtual camera.

@@ -1,3 +1,76 @@
+# Interactive 3D Office Desk Scene
+
+## Project Overview
+
+An interactive 3D visualization developed using C++ and OpenGL as part of the CS-330 Computer Graphics and Visualization course at Southern New Hampshire University.
+
+The project recreates a real-world office desk environment featuring a laptop, notebook, pencil, and textured wooden desk. Users can navigate the scene through an interactive virtual camera.
+
+## Technologies Used
+
+- C++
+- OpenGL
+- GLFW
+- GLM
+- Visual Studio
+
+## Key Features
+
+- Interactive 3D scene rendering
+- Texture mapping and material customization
+- Configurable lighting and reflections
+- Keyboard and mouse camera navigation
+- Multiple camera views and projections
+- Object scaling, rotation, and positioning
+- Modular and reusable rendering functions
+
+## Navigation Controls
+
+| Input | Function |
+|---|---|
+| W | Move forward |
+| S | Move backward |
+| A | Move left |
+| D | Move right |
+| Q / E | Vertical camera movement |
+| 1–4 | Switch views or projections |
+| Mouse | Control camera direction |
+
+## Code Organization
+
+The project utilizes reusable functions to improve maintainability and organization.
+
+- `CreateGLTexture()` — Loads image textures into OpenGL memory.
+- `SetShaderTexture()` — Applies textures to objects.
+- `SetShaderMaterial()` — Configures material properties and shininess.
+- `SetupSceneLights()` — Configures scene lighting.
+- `SetTransformations()` — Controls object scale, rotation, and position.
+- `ProcessKeyboardEvents()` — Handles keyboard-based navigation.
+
+## Testing and Problem Solving
+
+The scene was developed incrementally through continuous visual testing and refinement.
+
+One challenge involved excessive light reflection obscuring object textures. This was addressed by adjusting material shininess and lighting properties to improve the visibility and realism of the scene.
+
+## Skills Demonstrated
+
+- Object-oriented programming
+- Technical troubleshooting
+- Modular software design
+- Iterative development
+- Computer graphics and visualization
+- Software testing and debugging
+
+## Academic Context
+
+Completed in April 2024 as a final project for the Computer Science bachelor's degree program at Southern New Hampshire University.
+
+## Author
+
+Alexis Del Rosario
+
+
 # CS-330-Computer-Graphic-and-Visualization
 
 
